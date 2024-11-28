@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://iniindranil.github.io/sitemap.xml

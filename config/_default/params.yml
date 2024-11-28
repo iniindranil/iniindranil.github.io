@@ -1,0 +1,51 @@
+env: production
+description: "Dig deep into the roots, hoping to find peace."
+author: iniindranil
+keywords: [Religion, Books, iniindranil]
+
+homeInfoParams:
+ Title: iniindranil
+ Content: Hello, welcome to [iniindranil](/)'s blog.
+
+defaultTheme: dark
+ShowReadingTime: false
+ShowCodeCopyButtons: true
+showtoc: true
+ShowPostNavLinks: true
+ShowShareButtons: true
+disableScrollToTop: true
+ShowWordCount: false
+ShowFullTextinRSS: true
+
+sitemap:
+ changeFreq: "hourly"
+ disable: false
+ filename: sitemap.xml
+ priority: -1
+
+social: true
+socialIcons:
+  - name: "github"
+    url: "https://github.com/iniindranil"
+  - name: "telegram"
+    url: "https://t.me/iniindranil_timeline"
+  - name: "rss"
+    url: "/rss.xml"
+
+label:
+  text: "iniindranil"
+  icon: /logo/iniindranil.png
+  iconHeight: 40
+
+assets:
+  disableFingerprinting: true
+  favicon: "/favicon/favicon.ico"
+  favicon16x16: "/favicon/favicon-16x16.png"
+  favicon32x32: "/favicon/favicon-32x32.png"
+  apple_touch_icon: "/favicon/apple-touch-icon.png"
+
+cover:
+  hidden: true
+  hiddenInSingle: true
+  relative: false
+  responsiveImages: true
