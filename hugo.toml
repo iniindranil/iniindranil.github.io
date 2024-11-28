@@ -1,0 +1,13 @@
+baseURL = 'https://iniindranil.github.io'
+languageCode = 'en-us'
+title = 'iniindranil'
+theme = 'hugo-PaperMod'
+paginate = 6
+enableRobotsTXT = true
+
+[outputs]
+home = ["HTML", "RSS", "JSON"]
+
+[outputFormats.RSS]
+mediatype = "application/rss"
+baseName = "rss"
